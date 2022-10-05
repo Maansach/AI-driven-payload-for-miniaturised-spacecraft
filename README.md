@@ -2,9 +2,9 @@
 
 This master thesis is written as part of Master in Aeropace Engineering, ISAE SUPAERO. The thesis was conducted at University of Luxembourg in colloboration between Spasys group and CV group.
 
-**Author: Maanasa Sachidanand**<br>
-**Supervisor: Prof. Andreas M. Hein**<br>
-**Tutor: Prof. Arnaud Dion**<br>
+**Author**: Maanasa Sachidanand<br>
+**Supervisor**: Prof. Andreas M. Hein<br>
+**Tutor**: Prof. Arnaud Dion<br>
 
 ## Abstract
 
