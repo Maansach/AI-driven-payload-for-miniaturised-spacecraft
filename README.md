@@ -1,6 +1,6 @@
 # AI-driven-payload-for-miniaturised-spacecraft
 
-This master thesis is written as part of Master in Aeropace Engineering, ISAE SUPAERO. The thesis was conducted at University of Luxembourg in colloboration between Spasys group and CV group.
+This master thesis is written as part of Master in Aeropace Engineering, ISAE SUPAERO. The thesis is conducted in collaboration with the SpaSys research group at the University of Luxembourg. 
 
 **Author**: Maanasa Sachidanand<br>
 **Supervisor**: Prof. Andreas M. Hein<br>
