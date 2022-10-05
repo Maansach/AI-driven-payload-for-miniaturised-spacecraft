@@ -2,7 +2,11 @@
 
 This master thesis is written as part of Master in Aeropace Engineering, ISAE SUPAERO. The thesis was conducted at University of Luxembourg in colloboration between Spasys group and CV group.
 
-# Abstract
+**Author: Maanasa Sachidanand
+Supervisor: Prof. Andreas M. Hein
+Tutor: Prof. Arnaud Dion**
+
+## Abstract
 
 Typically, A spacecraft’s health is monitored by sending telemetry data to the ground
 segment. This can create latency and data limitations in identifying sources of electrical
